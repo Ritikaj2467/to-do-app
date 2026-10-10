@@ -6,7 +6,7 @@ A small UI framework written in **pure Python** (no third-party packages) that l
 
 | | |
 |---|---|
-| **GitHub repo** | _add link here_ |
+| **GitHub repo** | https://github.com/Ritikaj2467/to-do-app |
 | **Demo video** | _add link here_ |
 | **Deployed prototype** | Not deployed (runs locally with one command) |
 
